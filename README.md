@@ -38,6 +38,8 @@
 
 ---
 
+---
+
 <p align="center">
-<i>⭐️ From <a href="https://github.com/darihafebi825-collab">Dariha Febi Mol</a></i>
+<i>Thanks for visiting! Happy coding! 👨‍💻✨</i>
 </p>
