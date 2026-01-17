@@ -1,23 +1,24 @@
 # Hi 👋, I'm Dariha Febi Mol
-### A passionate Full Stack Engineer from India
+### Full Stack Developer | ML Enthusiast | Problem Solver
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darihafebi825-collab&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 Building innovative web applications with modern technologies
-- 🌱 Exploring Machine Learning and Computer Vision
-- 💡 Passionate about creating user-friendly and responsive interfaces
-- 📫 How to reach me **darihafebi825@gmail.com**
-- ⚡ Fun fact: I turn coffee into code with a little help from ChatGPT and ideas into reality!
+## 👩‍💻 About Me
+
+
+- 🤝 Open to collaborating on full-stack development and ML projects
+- 💬 Ask me about Python, JavaScript, React, Django, or Web Development
+- 📫 Reach out to me at **darihafebi825@gmail.com**
+- ⚡ Fun fact: I believe great code is a blend of logic, creativity, and a good cup of coffee!
 
 ## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dariha-suresh-262a933a0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Languages and Tools
+## 🛠️ Technical Skills
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -36,7 +37,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
----
+
 
 ---
 
