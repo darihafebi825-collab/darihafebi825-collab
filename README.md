@@ -11,37 +11,10 @@
   
 </div>
 
----
 
-## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Dariha Febi Mol.A"
-        self.role = "Aspiring Full-Stack Developer"
-        self.location = "Chemparuthivilai, Tamil Nadu"
-        self.education = "BE (CSE) - 80.90% | Anna University"
-        self.languages = ["Python", "JavaScript"]
-        self.frameworks = ["Django", "React"]
-        self.interests = ["AI/ML", "Computer Vision", "Web Development"]
-        
-    def current_focus(self):
-        return [
-            "Building scalable web applications",
-            "Exploring Machine Learning models",
-            "Practicing DSA on HackerRank",
-            "Creating user-friendly UI/UX designs"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
 
-me = Developer()
-me.say_hi()
-```
-
----
+   
 
 
 
