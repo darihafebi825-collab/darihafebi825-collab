@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dariha Febi Mol
-### Full Stack Developer | ML Enthusiast | Problem Solver
+### Web Designer | Full Stack Developer | ML Enthusiast 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darihafebi825-collab&label=Profile%20views&color=0e75b6&style=flat)
 
