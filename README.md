@@ -16,14 +16,7 @@ Project Management | SaaS Ops | Client Implementation | Cross-functional Coordin
 
 ---
 
-🎯 **Aspiring Project Manager** · Building a career at the intersection of **people, process & product**
 
-🌱 **Currently Learning** → Agile · Scrum · SaaS Implementation · API Workflows  
-📌 **Career Goal** → Associate PM → Project Manager → Senior PM (Enterprise SaaS)  
-🏗️ **Interested In** → Client Onboarding · Stakeholder Management · Process Standardisation  
-⚡ **Fun Fact** → I track everything — tasks, goals, wins & lessons learned 📋
-
----
 
 💬 **Ask me about** → SaaS Onboarding · Client Implementations · Project Tracking · Agile Workflows
 
