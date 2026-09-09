@@ -1,5 +1,5 @@
 # 👋 Dariha Febi Mol
-### Aspiring Product Manager · Full-Stack Developer
+### Aspiring Backend Developer · 
 
 ![Views](https://komarev.com/ghpvc/?username=darihafebi825-collab&label=Views&color=0e75b6&style=flat)
 <a href="https://www.linkedin.com/in/dariha-suresh-262a933a0" target="_blank">
